@@ -2,3 +2,6 @@
 *.o
 *.a
 *.obj
+
+# Python
+*.pyc
